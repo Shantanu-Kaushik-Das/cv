@@ -1,0 +1,31 @@
+
+body{
+
+  background-image: url("file:///C:/Users/gyanj/Desktop/Web%20Development/HTML%20-%20Personal%20Site/Images/background4.png");
+  background-repeat: repeat;
+  background-size : 100% 100%;
+  color:#00FFD1;
+  background-color: black;
+  }
+
+div{
+  color: blue;
+}
+  h1{
+    color: #E3C770;
+  }
+
+  h3{
+    color: #E14D2A;
+  }
+  a{
+    color: yellow;
+  }
+  hr {
+
+border-color: grey;
+border-style: dotted none none;
+border-width: 5px;
+width: 5%;
+
+}
