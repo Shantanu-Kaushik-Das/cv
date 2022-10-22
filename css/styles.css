@@ -29,3 +29,7 @@ border-width: 5px;
 width: 5%;
 
 }
+a:hover{
+font-style:bold;
+color:red;
+}
