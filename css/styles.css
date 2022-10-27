@@ -1,5 +1,5 @@
 body{
-background-color: #EAF6F6;
+background-color: #98A8F8;
 text-align: center;
 padding: 100px 0 0 0;
 margin:0;
@@ -10,7 +10,7 @@ h1{
   line-height: 4;
   font-family:Fasthand,sans-serif;
   font-size: 3.75rem ;
-  color: #66BFBF;
+  color: #F6F6C9;
 }
 .student{text-decoration: underline;}
 
@@ -31,7 +31,7 @@ h2{
   font-size: 2.5rem;
 }
 h3{
-  color:#11999E;
+  color:#CFFF8D;
 }
 a{
   text-decoration: none;
