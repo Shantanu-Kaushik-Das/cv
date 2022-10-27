@@ -1,5 +1,5 @@
 body{
-background-color: #98A8F8;
+background-color: #C3F8FF;
 text-align: center;
 padding: 100px 0 0 0;
 margin:0;
@@ -26,7 +26,7 @@ h1{
 }
 h2{
   font-weight: normal;
-  color: #66BFBF;
+  color: #F9F9F9;
   font-family: 'Poppins',sans-serif;
   font-size: 2.5rem;
 }
