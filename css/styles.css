@@ -19,6 +19,10 @@ h1{
   right:0;
   top: 0;
 }
+.cloud1:focus{
+background-color:black;
+
+}
 .cloud2{
   position: absolute;
   bottom: auto;
